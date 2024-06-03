@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*,*:before,*:after{
+    padding:0;
+    margin:0;
+    border:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Barlow";
+    background: #DCEAFD;
+    color: #2A4A5C;
+}
+.conteiner {
+    width: 1200px;
+    margin: 100px auto;
+    display: flex;
+
+}
+.img {
+    margin: 0px;
+    background-image: url(https://github.com/Dyrdasov/project-name-web-core-1.1/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 5% 50%;
+    width: 600px;
+}
+.logo {
+    width: 100px;
+    height: 70px;
+    padding: 10px 50px;
+}
+.block {
+    margin: 0px;
+    padding-left: 50px;
+    padding-top: 40px;
+    background: #fff;
+    width: 600px;
+}
+h2 {
+    margin-top: 20px;
+}
+.text-1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.block-2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.button_reg {
+    display: -webkit-box;
+    display: -webkit-inline-box;
+    display: inline-block;
+}
+.btn_facebook {
+    background-color: #255A9B;
+    margin: 20px 0px;
+    padding: 15px 50px;
+    cursor: pointer;
+    font-size: 15px;
+    color: #fff;
+    background-image: url(https://github.com/Dyrdasov/project-name-web-core-1.1/img/facebook.svg);
+    background-size: 20px 35px;
+    background-repeat: no-repeat;
+    background-position: 5% 50%;
+    font-family: "Barlow";
+}
+.btn_linkedin {
+    background-color: #0076B6;
+    margin: 20px 0px;
+    padding: 15px 50px;
+    cursor: pointer;
+    font-size: 15px;
+    color: #fff;
+    background-image: url(/img/linkedin.svg);
+    background-size: 20px 35px;
+    background-repeat: no-repeat;
+    background-position: 7% 50%;
+    font-family: "Barlow";
+}
+.btn_facebook:hover, .btn_linkedin:hover, .button:hover {
+    background-color: #40667B;
+    color: white;
+}
+.block-3 {
+
+}
+.c3 {
+    text-align: center;
+    font-size: 12px;
+    text-align: -moz-center;
+}
+.block-4 {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+label {
+    color: #7B8A92;
+    font-size: 15px;
+}
+.email {
+    display: inline-grid;
+    border-left: 2px solid #3698FB;
+    padding: 5px;
+    margin-right: 65px;
+}
+input {
+    font-size: 15px;
+}
+.phone {
+    display: inline-grid;
+}
+
+h3 {
+    padding-bottom: 15px;
+}
+
+.text-2 {
+    font-size: 13px;
+    padding-bottom: 40px;;
+}
+
+
+/* checkbox */
+.checkbox {
+    margin-bottom: 40px;
+    color: #919191;
+    font-size: 13px;
+}
+.check {
+    padding-right: 50px;
+    color: #000;
+}
+.check_input {
+    margin-right: 5px;
+}
+
+pre {
+    font-size: 13px;
+    color: #96A5B1;
+    margin-bottom: 30px;
+    font-family: "Barlow";
+}
+
+.text-3 {
+    font-size: 13px;
+    color: #96A5B1;
+    margin-bottom: 25px;
+    font-family: "Barlow";
+}
+.link {
+    color: #3698FB;
+}
+.button {
+    background-color: #255A9B;
+    margin: 20px 0px;
+    padding: 10px 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    color: #fff;
+}
