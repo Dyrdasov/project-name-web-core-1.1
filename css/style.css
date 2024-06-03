@@ -28,7 +28,7 @@ body{
 .logo {
     width: 100px;
     height: 70px;
-    padding: 10px 50px;
+    margin: 10px 50px;
 }
 .block {
     margin: 0px;
