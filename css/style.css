@@ -19,7 +19,7 @@ body{
 }
 .img {
     margin: 0px;
-    background-image: url(https://github.com/Dyrdasov/project-name-web-core-1.1/img/bg.jpg);
+    background-image: url(https://dyrdasov.github.io/project-name-web-core-1.1/img/bg.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 5% 50%;
@@ -61,7 +61,7 @@ h2 {
     cursor: pointer;
     font-size: 15px;
     color: #fff;
-    background-image: url(https://github.com/Dyrdasov/project-name-web-core-1.1/img/facebook.svg);
+    background-image: url(https://dyrdasov.github.io/project-name-web-core-1.1/img/facebook.svg);
     background-size: 20px 35px;
     background-repeat: no-repeat;
     background-position: 5% 50%;
@@ -74,7 +74,7 @@ h2 {
     cursor: pointer;
     font-size: 15px;
     color: #fff;
-    background-image: url(https://github.com/Dyrdasov/project-name-web-core-1.1/img/linkedin.svg);
+    background-image: url(https://dyrdasov.github.io/project-name-web-core-1.1/img/linkedin.svg);
     background-size: 20px 35px;
     background-repeat: no-repeat;
     background-position: 7% 50%;
